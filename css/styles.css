@@ -157,7 +157,8 @@ p {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
+  color: rgb(137, 51, 172);
 }
 
 .scene {
@@ -449,7 +450,7 @@ a {
 }
 
 .page-text a {
-  color: #da5a13;
+  color: rgb(137, 51, 172);
 }
 
 .layer2 {
